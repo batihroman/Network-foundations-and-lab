@@ -1,6 +1,6 @@
 Report 02.03.2026.
 Target IP: 10.64.125.83.
-Objective of the project: to perform a network enumeration against a target host in a controlled lab environment and identify exposed servises, versions, and potential attac services. 
+Objective of the project: to perform a network enumeration against a target host in a controlled lab environment and identify exposed services, versions, and potential attack services. 
 I used a Try Hack Me AttackBox with installed Nmap to scan an existing network.
 
 Methodology:
