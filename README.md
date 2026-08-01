@@ -6,9 +6,9 @@ Ran a network scan using Nmap on Kali Linux and wrote the results up as a profes
 
 ## What I Did
 
-This project has two parts — networking fundamentals study and a hands-on scanning lab.
+This project has two parts: networking fundamentals study and a hands-on scanning lab.
 
-For the lab, I used Nmap on Kali Linux to scan a network: identified live hosts, found open ports, and detected what services were running on each one. I then wrote everything up as a security report — not just the raw output, but what the findings actually mean from a security standpoint and what should be done about them.
+For the lab, I used Nmap on Kali Linux to scan a network: identified live hosts, found open ports, and detected what services were running on each one. I then wrote everything up as a security report.
 
 ---
 
